@@ -1,0 +1,19 @@
+https://649706941736.signin.aws.amazon.com/console
+
+User ARN: arn:aws:iam::649706941736:user/hema
+
+Access key ID: AKIAZORMNFUUC3SFO4VZ
+
+password: sldkjfh+A
+aws-->account id 649706941736
+iam username-->hema
+
+auth0-->hemahema3A
+
+curl --location --request POST 'https://hema-salah.us.auth0.com/oauth/token' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'client_id=keNylOhzgPE6afn6alzDl7l9Ow8K4zML' \
+--data-urlencode 'username=ibrahimesalah69@gmail.com' \
+--data-urlencode 'password=hemahema3A' \
+--data-urlencode 'grant_type=password' \
+--data-urlencode 'scope=openid'
